@@ -1,5 +1,5 @@
 import {nanoid} from 'nanoid';
-
+import "./style.css";
 
 const passwordbtnEl = document.querySelector('button')
 
